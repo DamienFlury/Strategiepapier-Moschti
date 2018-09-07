@@ -1,0 +1,1 @@
+# Strategiepapier-Moschti
