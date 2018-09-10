@@ -11,3 +11,8 @@
 8. Add all changed files: `git add .`
 9. Commit: `git commit -m "[your message]"`
 10. Push: `git push origin master`
+
+## Run
+1. Install LaTeX (MiKTeX for example: [MiKTeX](https://miktex.org/))
+2. `pdflatex main.tex`
+3. Open the pdf-file
