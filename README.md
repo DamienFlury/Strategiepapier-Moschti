@@ -14,5 +14,6 @@
 
 ## Run
 1. Install LaTeX (MiKTeX for example: [MiKTeX](https://miktex.org/))
-2. `pdflatex main.tex`
+2. Compile it: `pdflatex main.tex`
 3. Open the pdf-file
+5. Done
