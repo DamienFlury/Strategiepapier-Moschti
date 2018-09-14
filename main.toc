@@ -8,9 +8,9 @@
 \contentsline {subsection}{\numberline {1.6}Institutionen}{2}
 \contentsline {subsection}{\numberline {1.7}Staat}{2}
 \contentsline {subsection}{\numberline {1.8}Konkurrenz}{2}
-\contentsline {section}{\numberline {2}Umweltsph\IeC {\"a}ren}{2}
-\contentsline {subsection}{\numberline {2.1}\IeC {\"O}konomische Umweltsph\IeC {\"a}re}{2}
-\contentsline {subsection}{\numberline {2.2}Technologische Umweltsph\IeC {\"a}re}{2}
+\contentsline {section}{\numberline {2}Umweltsph\IeC {\"a}ren}{3}
+\contentsline {subsection}{\numberline {2.1}\IeC {\"O}konomische Umweltsph\IeC {\"a}re}{3}
+\contentsline {subsection}{\numberline {2.2}Technologische Umweltsph\IeC {\"a}re}{3}
 \contentsline {subsection}{\numberline {2.3}\IeC {\"O}kologische Umweltsph\IeC {\"a}re}{3}
 \contentsline {subsection}{\numberline {2.4}Soziale Umweltsph\IeC {\"a}re}{3}
 \contentsline {section}{\numberline {3}Zentrale Werte}{3}
@@ -18,5 +18,7 @@
 \contentsline {section}{\numberline {5}\IeC {\"O}ffentliches Leitbild}{3}
 \contentsline {section}{\numberline {6}SWOT-Analyse}{3}
 \contentsline {subsection}{\numberline {6.1}St\IeC {\"a}rken (Strenghts)}{3}
-\contentsline {subsection}{\numberline {6.2}Schw\IeC {\"a}chen (Weaknesses)}{3}
-\contentsline {subsection}{\numberline {6.3}M\IeC {\"o}glichkeiten (Opportunities)}{3}
+\contentsline {subsection}{\numberline {6.2}Schw\IeC {\"a}chen (Weaknesses)}{4}
+\contentsline {subsection}{\numberline {6.3}M\IeC {\"o}glichkeiten (Opportunities)}{4}
+\contentsline {subsection}{\numberline {6.4}Gefahren (Threats)}{4}
+\contentsline {section}{\numberline {7}Unternehmensstrategie}{4}
