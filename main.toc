@@ -13,3 +13,9 @@
 \contentsline {subsection}{\numberline {2.2}Technologische Umweltsph\IeC {\"a}re}{2}
 \contentsline {subsection}{\numberline {2.3}\IeC {\"O}kologische Umweltsph\IeC {\"a}re}{3}
 \contentsline {subsection}{\numberline {2.4}Soziale Umweltsph\IeC {\"a}re}{3}
+\contentsline {section}{\numberline {3}Zentrale Werte}{3}
+\contentsline {section}{\numberline {4}Vision}{3}
+\contentsline {section}{\numberline {5}\IeC {\"O}ffentliches Leitbild}{3}
+\contentsline {section}{\numberline {6}SWOT-Analyse}{3}
+\contentsline {subsection}{\numberline {6.1}Strenghts}{3}
+\contentsline {subsection}{\numberline {6.2}Weaknesses}{3}
