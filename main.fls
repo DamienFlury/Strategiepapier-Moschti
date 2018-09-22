@@ -1,8 +1,8 @@
-PWD c:/Users/FluryD/Documents/LaTeX/Strategiepapier-Moschti
+PWD c:/Users/damie/Documents/latex/git/Strategiepapier-Moschti
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/FluryD/Documents/LaTeX/Strategiepapier-Moschti/main.tex
+INPUT c:/Users/damie/Documents/latex/git/Strategiepapier-Moschti/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls

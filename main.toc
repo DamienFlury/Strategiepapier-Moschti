@@ -1,13 +1,14 @@
 \babel@toc {ngerman}{}
 \contentsline {section}{\numberline {1}Anspruchsgruppen}{2}
 \contentsline {subsection}{\numberline {1.1}Kundinnen und Kunden}{2}
-\contentsline {subsection}{\numberline {1.2}Eigenkaptialgeber/Eigent\IeC {\"u}mer}{2}
-\contentsline {subsection}{\numberline {1.3}Fremdkapitalgeber}{2}
-\contentsline {subsection}{\numberline {1.4}Mitarbeiternde}{2}
-\contentsline {subsection}{\numberline {1.5}Lieferanten}{2}
-\contentsline {subsection}{\numberline {1.6}Institutionen}{2}
-\contentsline {subsection}{\numberline {1.7}Staat}{2}
-\contentsline {subsection}{\numberline {1.8}Konkurrenz}{2}
+\contentsline {subsection}{\numberline {1.2}test}{2}
+\contentsline {subsection}{\numberline {1.3}Eigenkaptialgeber/Eigent\IeC {\"u}mer}{2}
+\contentsline {subsection}{\numberline {1.4}Fremdkapitalgeber}{2}
+\contentsline {subsection}{\numberline {1.5}Mitarbeiternde}{2}
+\contentsline {subsection}{\numberline {1.6}Lieferanten}{2}
+\contentsline {subsection}{\numberline {1.7}Institutionen}{2}
+\contentsline {subsection}{\numberline {1.8}Staat}{2}
+\contentsline {subsection}{\numberline {1.9}Konkurrenz}{3}
 \contentsline {section}{\numberline {2}Umweltsph\IeC {\"a}ren}{3}
 \contentsline {subsection}{\numberline {2.1}\IeC {\"O}konomische Umweltsph\IeC {\"a}re}{3}
 \contentsline {subsection}{\numberline {2.2}Technologische Umweltsph\IeC {\"a}re}{3}
