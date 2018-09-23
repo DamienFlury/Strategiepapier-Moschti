@@ -4,9 +4,15 @@
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
+
 \usepackage{float}
 
 \usepackage{graphicx}
+\usepackage{tabularx}
+
+\newcolumntype{b}{X}
+\newcolumntype{s}{>{\hsize=.5\hsize}X}
+\newcommand{\heading}[1]{\multicolumn{1}{c}{#1}}
 
 \title{Strategiepapier Alte Moschti}
 \author{Sascha Huber, Aaron Stampa, Damien Flury}
@@ -86,5 +92,21 @@ Somit entscheiden wir in dem berner Dorf zu bleiben und zu hoffen, dass wir die 
   \includegraphics[width=\textwidth]{nutzwerkanalyse}
   \caption{Nutzwerkanalyse}
 \end{figure}
+
+\section{Unternehmenskonzept}
+\begin{table}[H]
+  \begin{tabularx}{\textwidth}{sbbb}
+        \hline
+         & \textbf{Leistungs-wirtschaftlicher Bereich} & \textbf{Finanz-wirtschaftlicher Bereich} & \textbf{Sozialer \newline Bereich} \\
+        \hline
+        \textbf{Ziele} & Imageziele, steigende Bekanntschaft & Wirtschaflichkeits-ziele & Gesellschaftsziele, Umweltsziele   \\ \hline
+        Beispiel & Wir streben eine Imageverbesserung gegenüber unserer Nachbarschaft um 30\% in den nächsten zwei Jahren an. & Unsere \newline Gesamteinnahmen betragen genug, um in weitere Gadgets zu investieren. & Wir streben eine korrekte Mülltrennung an. \\ \hline
+        \textbf{Mittel} & Lärmdämpfung, tolle Angebote, Eintrittsvergünstigung für Dorfbewohner, Werbung. & Durch steigendes Image, wachsende Bekanntschaft und exklusve Musiker möchten wir Gewinne erzielen. & Mit genügend Abfalleimern sowohl in Normal- als auch in Petformat möchten wir eine korrekte Mülltrennung fördern \\ \hline
+        Beispiel & Isolierung \newline des Lärmes, Karaokeabende, Vergünstigung des Eintritts um 20\%. & Werbung, eigene Webseite & Abfalleimer ausserhalb und innerhalb, Aschenbecher für Raucher ausserhalb. \\ \hline
+        \textbf{Methode} & Werbungs-platzierung, Optimale Lärmisolierung & Erstellung der Website, Wege zur Gewinnmaximierung & Reduzierung von nicht/falsch weggeworfenen Abfällen \\ \hline
+        Beispiel & Werbung \newline an öffentlichen Pinnwänden, Zeitungsinserate & Website wird von der Geschäftsführung intern erstellt. & Verwarnung bei Regelverstössen \\ \hline
+  \end{tabularx}
+  \caption{Unternehmenskonzept}
+\end{table}
 
 \end{document}

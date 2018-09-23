@@ -19,3 +19,4 @@
 \contentsline {section}{\numberline {6}SWOT-Analyse und Unternehmensstrategie}{4}
 \contentsline {section}{\numberline {7}Wettbewerbsstrategie}{4}
 \contentsline {section}{\numberline {8}Nutzwerkanalyse}{4}
+\contentsline {section}{\numberline {9}Unternehmenskonzept}{5}
