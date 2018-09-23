@@ -16,6 +16,6 @@
 \contentsline {section}{\numberline {3}Zentrale Werte}{3}
 \contentsline {section}{\numberline {4}Vision}{3}
 \contentsline {section}{\numberline {5}\IeC {\"O}ffentliches Leitbild}{3}
-\contentsline {section}{\numberline {6}SWOT-Analyse und Unternehmensstrategie}{3}
-\contentsline {section}{\numberline {7}Wettbewerbsstrategie}{5}
-\contentsline {section}{\numberline {8}Nutzwerkanalyse}{5}
+\contentsline {section}{\numberline {6}SWOT-Analyse und Unternehmensstrategie}{4}
+\contentsline {section}{\numberline {7}Wettbewerbsstrategie}{4}
+\contentsline {section}{\numberline {8}Nutzwerkanalyse}{4}

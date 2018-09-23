@@ -4,8 +4,9 @@
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
+\usepackage{float}
 
-\usepackage{pdfpages}
+\usepackage{graphicx}
 
 \title{Strategiepapier Alte Moschti}
 \author{Sascha Huber, Aaron Stampa, Damien Flury}
@@ -67,7 +68,11 @@ Möglichst viele Menschen mit der Moschti erreichen, unterhalten und die Gewinne
 \section{Öffentliches Leitbild}
 Wir sind daran interessiert, unsere Leitsungen stets zu verbessern und somit allen Kunden gerecht zu werden.
 \section{SWOT-Analyse und Unternehmensstrategie}
-\includepdf[pages=-]{swot_analysis}
+\begin{figure}[H]
+  \includegraphics[width=\textwidth]{swot_analysis}
+  \caption{SWOT-Analyse}
+\end{figure}
+
 
 \section{Wettbewerbsstrategie}
 Wir setzen auf die Gesamtmarktstrategie, da wir Events in sämtliche Richtungen anbieten und somit alle Bedürfnisse versuchen abzudecken.
@@ -76,5 +81,10 @@ Wir setzen auf die Gesamtmarktstrategie, da wir Events in sämtliche Richtungen 
 Durch die Nutzwerkanalyse wurde ersichtlich, dass der Standort im berner Dorf am geignetsten ist. 
 Dies, da die Mietpreise günstig sind und die Kunden nur bedingt spontan entscheiden können, da man manchmal Tickets für ein Mosti-Event braucht.
 Somit entscheiden wir in dem berner Dorf zu bleiben und zu hoffen, dass wir die Bevölkerung von unserer Sache überzeugen können.
+
+\begin{figure}[h]
+  \includegraphics[width=\textwidth]{nutzwerkanalyse}
+  \caption{Nutzwerkanalyse}
+\end{figure}
 
 \end{document}
